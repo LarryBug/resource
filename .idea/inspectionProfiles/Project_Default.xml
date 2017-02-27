@@ -6,6 +6,7 @@
         <list>
           <option value="athletemodel" />
           <option value="yate" />
+          <option value="urllib.urlencode" />
         </list>
       </option>
     </inspection_tool>
